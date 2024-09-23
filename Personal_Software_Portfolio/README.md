@@ -1,4 +1,4 @@
-# Overview
+# Added link to youtube video
 
 This is a program that displays Hello World.
 
@@ -8,7 +8,7 @@ I did this in order to learn how to integrate Visual Studio Code and Github toge
 
 {Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+Software Demo Video: https://youtu.be/84mrR81FFFs
 
 # Development Environment
 
@@ -22,5 +22,4 @@ Python
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Hello World Video Demonstration](https://video.byui.edu/media/t/1_zyyx43ke)
